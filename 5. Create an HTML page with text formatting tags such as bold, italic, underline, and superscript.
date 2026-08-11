@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Text Formatting</title>
+</head>
+<body>
+
+    <h1>HTML Text Formatting</h1>
+
+    <p><b>This text is bold.</b></p>
+
+    <p><i>This text is italic.</i></p>
+
+    <p><u>This text is underlined.</u></p>
+
+    <p>Water formula is H<sub>2</sub>O.</p>
+
+    <p>Mathematical expression: x<sup>2</sup> + y<sup>2</sup></p>
+
+</body>
+</html>

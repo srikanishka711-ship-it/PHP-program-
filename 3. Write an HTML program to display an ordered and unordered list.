@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ordered and Unordered Lists</title>
+</head>
+<body>
+
+    <h1>My Lists</h1>
+
+    <h2>Ordered List</h2>
+    <ol>
+        <li>Apple</li>
+        <li>Banana</li>
+        <li>Orange</li>
+        <li>Mango</li>
+    </ol>
+
+    <h2>Unordered List</h2>
+    <ul>
+        <li>Cricket</li>
+        <li>Football</li>
+        <li>Basketball</li>
+        <li>Tennis</li>
+    </ul>
+
+</body>
+</html>
